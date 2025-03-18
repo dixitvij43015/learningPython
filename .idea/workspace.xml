@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b291eaba-223a-4dc0-af12-f2e228ea4a44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/awsPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awsPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listIAMusers.py" beforeDir="false" afterPath="$PROJECT_DIR$/listIAMusers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource_Client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dixitvij43015"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dixitvij43015/learningPython.git",
+    "accountId": "4b9bf324-e922-4172-9c6d-c4433fe37606"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -37,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.listIAMusers.executor": "Run",
+    "Python.resource_Client.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
